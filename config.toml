@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ursi & Niko"
+theme = "gohugo-theme-ananke"
