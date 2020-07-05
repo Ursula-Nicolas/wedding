@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ursi &amp; Niko</title>
-    <link>https://ursula-nicolas.github.io/test-site/</link>
+    <link>https://ursula-nicolas.github.io/test_site/</link>
     <description>Recent content on Ursi &amp; Niko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2020 18:35:43 +0200</lastBuildDate>
     
-	<atom:link href="https://ursula-nicolas.github.io/test-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ursula-nicolas.github.io/test_site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fist Post</title>
-      <link>https://ursula-nicolas.github.io/test-site/post/fist-post/</link>
+      <link>https://ursula-nicolas.github.io/test_site/post/fist-post/</link>
       <pubDate>Sun, 05 Jul 2020 18:35:43 +0200</pubDate>
       
-      <guid>https://ursula-nicolas.github.io/test-site/post/fist-post/</guid>
+      <guid>https://ursula-nicolas.github.io/test_site/post/fist-post/</guid>
       <description>#Hello!
 Welcome to my new blog! :)</description>
     </item>
