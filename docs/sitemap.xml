@@ -3,27 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ursula-nicolas.github.io/test_site/post/fist-post/</loc>
-    <lastmod>2020-07-05T18:35:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ursula-nicolas.github.io/test_site/post/</loc>
-    <lastmod>2020-07-05T18:35:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ursula-nicolas.github.io/test_site/</loc>
-    <lastmod>2020-07-05T18:35:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ursula-nicolas.github.io/test_site/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -31,6 +10,12 @@
   
   <url>
     <loc>https://ursula-nicolas.github.io/test_site/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ursula-nicolas.github.io/test_site/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
