@@ -1,6 +1,6 @@
 baseURL = "https://ursula-nicolas.github.io/test_site"
 languageCode = "en-us"
-title = "Ursi & Niko"
+title = "Ursula & Nicolas"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 publishDir = "docs"
