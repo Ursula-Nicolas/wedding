@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ursula-nicolas.github.io/test_site/it/categories/</loc>
+    <loc>http://ursula-nicolas-2021.de/it/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ursula-nicolas.github.io/test_site/categories/"
+                href="http://ursula-nicolas-2021.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ursula-nicolas.github.io/test_site/fr/categories/"
+                href="http://ursula-nicolas-2021.de/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ursula-nicolas.github.io/test_site/de/categories/"
+                href="http://ursula-nicolas-2021.de/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://ursula-nicolas.github.io/test_site/it/categories/"
+                href="http://ursula-nicolas-2021.de/it/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ursula-nicolas.github.io/test_site/it/tags/</loc>
+    <loc>http://ursula-nicolas-2021.de/it/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ursula-nicolas.github.io/test_site/tags/"
+                href="http://ursula-nicolas-2021.de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ursula-nicolas.github.io/test_site/fr/tags/"
+                href="http://ursula-nicolas-2021.de/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ursula-nicolas.github.io/test_site/de/tags/"
+                href="http://ursula-nicolas-2021.de/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://ursula-nicolas.github.io/test_site/it/tags/"
+                href="http://ursula-nicolas-2021.de/it/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://ursula-nicolas.github.io/test_site/it/</loc>
+    <loc>http://ursula-nicolas-2021.de/it/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ursula-nicolas.github.io/test_site/"
+                href="http://ursula-nicolas-2021.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ursula-nicolas.github.io/test_site/fr/"
+                href="http://ursula-nicolas-2021.de/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ursula-nicolas.github.io/test_site/de/"
+                href="http://ursula-nicolas-2021.de/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://ursula-nicolas.github.io/test_site/it/"
+                href="http://ursula-nicolas-2021.de/it/"
                 />
   </url>
   
