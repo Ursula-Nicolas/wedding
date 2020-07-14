@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ursula-nicolas-2021.de/it/categories/</loc>
+    <loc>https://ursula-nicolas-2021.de/it/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ursula-nicolas-2021.de/categories/"
+                href="https://ursula-nicolas-2021.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://ursula-nicolas-2021.de/fr/categories/"
+                href="https://ursula-nicolas-2021.de/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://ursula-nicolas-2021.de/de/categories/"
+                href="https://ursula-nicolas-2021.de/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://ursula-nicolas-2021.de/it/categories/"
+                href="https://ursula-nicolas-2021.de/it/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://ursula-nicolas-2021.de/it/tags/</loc>
+    <loc>https://ursula-nicolas-2021.de/it/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ursula-nicolas-2021.de/tags/"
+                href="https://ursula-nicolas-2021.de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://ursula-nicolas-2021.de/fr/tags/"
+                href="https://ursula-nicolas-2021.de/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://ursula-nicolas-2021.de/de/tags/"
+                href="https://ursula-nicolas-2021.de/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://ursula-nicolas-2021.de/it/tags/"
+                href="https://ursula-nicolas-2021.de/it/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://ursula-nicolas-2021.de/it/</loc>
+    <loc>https://ursula-nicolas-2021.de/it/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ursula-nicolas-2021.de/"
+                href="https://ursula-nicolas-2021.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://ursula-nicolas-2021.de/fr/"
+                href="https://ursula-nicolas-2021.de/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://ursula-nicolas-2021.de/de/"
+                href="https://ursula-nicolas-2021.de/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://ursula-nicolas-2021.de/it/"
+                href="https://ursula-nicolas-2021.de/it/"
                 />
   </url>
   

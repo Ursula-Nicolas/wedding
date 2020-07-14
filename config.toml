@@ -1,4 +1,4 @@
-baseURL = "http://ursula-nicolas-2021.de"
+baseURL = "https://ursula-nicolas-2021.de"
 languageCode = "en-us"
 title = "Ursula & Nicolas"
 theme = "gohugo-theme-ananke"
