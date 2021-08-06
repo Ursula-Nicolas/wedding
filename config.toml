@@ -4,6 +4,8 @@ title = "Ursula & Nicolas"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 publishDir = "docs"
+canonifyURLs = true
+relativeUrls = true
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -12,30 +14,34 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-
+[languages]
+  [languages.en]
+	title= "Home"
+    weight= 1
+	contentDir = "content/en"
+  [languages.fr]
+	title= "Francais"
+    weight= 2
+	contentDir = "content/fr"
+  [languages.de]
+	title= "Deutsch"
+    weight= 3
+	contentDir = "content/de"
+  [languages.it]
+	title= "Italiano"
+	weight= 4
+	contentDir = "content/it"
+	
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
   
-[languages]
-  [languages.en]
-    languageName= "English"
-    weight= 1
-  [languages.fr]
-    languageName= "Français"
-    weight= 2
-  [languages.de]
-    languageName= "Deutsch"
-    weight= 3
-  [languages.it]
-    languageName= "Italiano"
-	weight= 4
 
 [params]
-  favicon = ""
+  favicon = "images/Icon.jpg"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Ursula & Nicolas"
   facebook = ""
   twitter = ""
   instagram = ""
@@ -51,6 +57,7 @@ enableRobotsTXT = true
   background_color_class = "bg-dark-gray"
   featured_image = "/images/Main.jpg"
   recent_posts_number = 2
+  custom_css = ["css/custom.css", "css/all.css"]
   
 [markup.goldmark.renderer]
   unsafe= true

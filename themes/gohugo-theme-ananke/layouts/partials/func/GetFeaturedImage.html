@@ -11,7 +11,7 @@
     If no featured_image was set, and there's no "cover" image in page resources, then
     this partial returns an empty string (which evaluates to false).
 
-    @return Permalink to featured image, or an empty string if not found.
+    @return RelPermalink to featured image, or an empty string if not found.
 
 */}}
 
@@ -26,7 +26,7 @@
 {{ else }}
     {{ $img := (.Resources.ByType "image").GetMatch "*cover*" }}
     {{ with $img }}
-        {{ $linkToCover = .Permalink }}
+        {{ $linkToCover = .RelPermalink }}
     {{ end }}
 {{ end }}
 
