@@ -1,14 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ursula &amp; Nicolas</title>
+    <title>Ursula &amp; Nicolas on Home</title>
     <link>https://ursula-nicolas-2021.de/</link>
-    <description>Recent content on Ursula &amp; Nicolas</description>
+    <description>Recent content in Ursula &amp; Nicolas on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://ursula-nicolas-2021.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Information</title>
+      <link>https://ursula-nicolas-2021.de/qanda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ursula-nicolas-2021.de/qanda/</guid>
+      <description>The venue: Hofgut Heidesheim We will celebrate at the venue Hofgut Heidesheim, located in the beautiful wine region &amp;ldquo;Rheinland-Pfalz&amp;rdquo;, see map at the end of the page.
+Address: Heidesheimer Hauptstraße 10, 67283 Obrigheim (Rheinland-Pfalz), Germany
+https://hofgut-heidesheim.de/
+Day and time We will celebrate on Saturday, the 20th of November 2021. Start will be at 2pm. To be able to spend as much time with you, we are also organizing an easy Sunday breakfast at the venue!</description>
+    </item>
+    
+    <item>
+      <title>Time Table</title>
+      <link>https://ursula-nicolas-2021.de/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ursula-nicolas-2021.de/schedule/</guid>
+      <description>   Saturday    20.11.2021     2 pm    Guest Arrival at the Location   2.30 pm    Ceremony   3.30 pm    Reception   6.30 pm    Buffet Opening   After    PARTY       Sunday    21.11.2021     9 am    Breakfast and Come together    </description>
+    </item>
+    
+    <item>
+      <title>Corona</title>
+      <link>https://ursula-nicolas-2021.de/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ursula-nicolas-2021.de/corona/</guid>
+      <description>Soon to come Here we will update you about the newest news regarding Covid-19 restrictions etc.</description>
+    </item>
+    
+    <item>
+      <title>RSVP</title>
+      <link>https://ursula-nicolas-2021.de/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ursula-nicolas-2021.de/rsvp/</guid>
+      <description>Please fill out the form to let us know if you are coming to the wedding! Wird geladen…</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ursula-nicolas-2021.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ursula-nicolas-2021.de/contact/</guid>
+      <description>In case you have questions regarding the wedding or specific requests, please contact our best women/best men or our wedding planner.
+Ursula&amp;rsquo;s best women Annika and Liesbeth Trinler annika.trinler[at]mail.de or liesbeth-trinler[at]web.de
+Nicolas&amp;rsquo; best men Sebastien Gomez and Yoann Long &amp;hellip;
+Wedding planner marrytale - Jennifer Schneider
+Mobil: 0171-2818549
+E-Mail: info[at]marrytale.de
+https://marrytale.de/</description>
+    </item>
     
   </channel>
 </rss>

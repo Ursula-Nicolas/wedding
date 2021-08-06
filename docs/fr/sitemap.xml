@@ -29,6 +29,22 @@
   </url>
   
   <url>
+    <loc>https://ursula-nicolas-2021.de/fr/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ursula-nicolas-2021.de/fr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
