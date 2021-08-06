@@ -10,11 +10,9 @@ Falls ihr irgendwelche Fragen zur Feier haben solltet oder andere Anliegen auf d
 
 ### Ursulas Trauzeugen
 Annika und Liesbeth Trinler
-annika.trinler[at]mail.de oder liesbeth-trinler[at]web.de
 
 ### Nicolas Trauzeugen
 Sebastien Gomez und Yoann Long
-...
 
 ### Hochzeitsplanerin
 

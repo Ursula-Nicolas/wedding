@@ -10,11 +10,9 @@ In case you have questions regarding the wedding or specific requests, please co
 
 ### Ursula's best women
 Annika and Liesbeth Trinler
-annika.trinler[at]mail.de or liesbeth-trinler[at]web.de
 
 ### Nicolas' best men
 Sebastien Gomez and Yoann Long
-...
 
 ### Wedding planner
 
