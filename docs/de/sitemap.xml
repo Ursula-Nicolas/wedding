@@ -3,19 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ursula-nicolas-2021.de/de/qanda/</loc>
+    <loc>https://ursula-nicolas-2021.de/de/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ursula-nicolas-2021.de/qanda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ursula-nicolas-2021.de/de/qanda/"
-                />
   </url>
   
   <url>

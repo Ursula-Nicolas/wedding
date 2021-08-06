@@ -2,7 +2,7 @@
 title: Information
 featured_image: '/images/See.jpg'
 omit_header_text: false
-description: Alles rund um die Feier
+description: Before, during and after the party
 type: page
 menu: main
 weight: 1

@@ -2,7 +2,7 @@
 title: Information
 featured_image: '/images/See.jpg'
 omit_header_text: false
-description: Before, during and after the party
+description: Alles rund um die Feier
 type: page
 menu: main
 weight: 1
@@ -14,7 +14,7 @@ Wir werden auf dem *Hofgut Heidesheim* feiern, welches in der wunderschönen Wei
 https://hofgut-heidesheim.de/
 
 ## Tag und Uhrzeit
-Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 2pm. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
+Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 14Uhr. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
 Ein detailiierter Zeitplan könnt ihr hier abrufen:([Zeitplan]({{< ref "Zeitplan" >}} "Zeitplan")). 
 
 ## Anfahrt, ÖPNV und Taxi
