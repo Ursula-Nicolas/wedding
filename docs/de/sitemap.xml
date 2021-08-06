@@ -41,19 +41,9 @@
   </url>
   
   <url>
-    <loc>https://ursula-nicolas-2021.de/de/rsvp/</loc>
+    <loc>https://ursula-nicolas-2021.de/de/zusage/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ursula-nicolas-2021.de/rsvp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ursula-nicolas-2021.de/de/rsvp/"
-                />
   </url>
   
   <url>
