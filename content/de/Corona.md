@@ -1,6 +1,7 @@
 ---
 title: Corona
-omit_header_text: true
+omit_header_text: false
+featured_image: '/images/Luebeck2.jpg'
 description: Alle aktuellen Infos über Coronaeinschränkungen
 type: page
 menu: main

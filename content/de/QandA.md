@@ -14,7 +14,7 @@ Wir werden auf dem *Hofgut Heidesheim* feiern, welches in der wunderschönen Wei
 https://hofgut-heidesheim.de/
 
 ## Tag und Uhrzeit
-Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 2pm. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([RSVP]({{< ref "RSVP" >}} "RSVP")).<br><br>
+Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 2pm. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
 Ein detailiierter Zeitplan könnt ihr hier abrufen:([Zeitplan]({{< ref "Zeitplan" >}} "Zeitplan")). 
 
 ## Anfahrt, ÖPNV und Taxi
@@ -39,7 +39,7 @@ falls ihr uns aber bei der Finanzierung der Hochzet und der Hochzeitsreise unter
 
 
 ## Wo kann ich zu oder absagen?
-Unter diesem Link ([RSVP]({{< ref "RSVP" >}} "RSVP")) kannst du uns Bescheid geben, ob du/ihr kommt oder es leider nicht schaffen werdet. Fülle einfach den Fragebogen aus und drücke "Senden" am Ende des Fragebogens.
+Unter diesem Link ([Formular]({{< ref "Zusage" >}} "Formular")) kannst du uns Bescheid geben, ob du/ihr kommt oder es leider nicht schaffen werdet. Fülle einfach den Fragebogen aus und drücke "Senden" am Ende des Fragebogens.
 
 ## Kleiderordnung...
 ...gibt es auf unserer Hochzeit nicht. Das bedeutet, dass du dich so kleiden kannst, dass du dich auf der Hochzeit wohl fühlst.

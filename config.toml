@@ -24,7 +24,7 @@ enableRobotsTXT = true
     weight= 2
 	contentDir = "content/fr"
   [languages.de]
-	title= "Deutsch"
+	title= "Home"
     weight= 3
 	contentDir = "content/de"
   [languages.it]
