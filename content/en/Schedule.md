@@ -2,7 +2,7 @@
 title: Time Table
 featured_image: '/images/Jump.jpg'
 omit_header_text: false
-description: We'd love to hear from you
+description: Detailed schedule of the celebration
 type: page
 menu: main
 weight: 2

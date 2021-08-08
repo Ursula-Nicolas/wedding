@@ -9,7 +9,8 @@ weight: 5
 In case you have questions regarding the wedding or specific requests, please contact our best women/best men or our wedding planner.
 
 ### Ursula's best women
-Annika and Liesbeth Trinler
+Annika and Liesbeth Trinler<br>
+annika.trinler[at]mail.de, liesbeth-trinler[at]web.de
 
 ### Nicolas' best men
 Sebastien Gomez and Yoann Long

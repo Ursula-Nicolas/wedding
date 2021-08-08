@@ -9,7 +9,8 @@ weight: 5
 Falls ihr irgendwelche Fragen zur Feier haben solltet oder andere Anliegen auf dem Herzen habt, könnt ihr unsere Trauzeugen oder unsere Hochzeitsplanerin kontaktieren.
 
 ### Ursulas Trauzeugen
-Annika und Liesbeth Trinler
+Annika und Liesbeth Trinler<br>
+annika.trinler[at]mail.de, liesbeth-trinler[at]web.de
 
 ### Nicolas Trauzeugen
 Sebastien Gomez und Yoann Long

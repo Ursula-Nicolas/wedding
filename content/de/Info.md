@@ -14,8 +14,8 @@ Wir werden auf dem *Hofgut Heidesheim* feiern, welches in der wunderschönen Wei
 https://hofgut-heidesheim.de/
 
 ## Tag und Uhrzeit
-Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 14Uhr. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
-Ein detailiierter Zeitplan könnt ihr hier abrufen:([Zeitplan]({{< ref "Zeitplan" >}} "Zeitplan")). 
+Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 14 Uhr. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
+Ein detaillierter Zeitplan könnt ihr hier abrufen:([Zeitplan]({{< ref "Zeitplan" >}} "Zeitplan")). 
 
 ## Anfahrt, ÖPNV und Taxi
 - **Nächster Flughafen**: Internationaler Flughafen Frankfurt
@@ -34,7 +34,7 @@ Weitere Unterkünfte könnt ihr hier finden: https://www.airbnb.de/ oder https:/
 
 
 ## Geschenke
-Das größte Geschenk, dass ihr uns machen könnt ist, zur Hochzeitsfeier zu kommen und mit uns zu feiern! Wir haben keine materiellen Wünsche, 
+Das größte Geschenk, das ihr uns machen könnt ist, zur Hochzeitsfeier zu kommen und mit uns zu feiern! Wir haben keine materiellen Wünsche, 
 falls ihr uns aber bei der Finanzierung der Hochzet und der Hochzeitsreise unterstützen wollt, freuen wir uns sehr! Wir werden hierfür eine kleine Box auf der Hochzeit aufstellen.
 
 
