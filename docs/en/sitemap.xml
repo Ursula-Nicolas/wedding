@@ -20,8 +20,18 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/corona/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://ursula-nicolas-2021.de/de/corona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/corona/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,6 +44,21 @@
     <loc>https://ursula-nicolas-2021.de/rsvp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/rsvp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/rsvp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ursula-nicolas-2021.de/rsvp/"
+                />
   </url>
   
   <url>

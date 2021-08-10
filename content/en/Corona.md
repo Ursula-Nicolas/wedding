@@ -18,8 +18,8 @@ That means that we might be forced to reduce the number of guests in retrospect 
 We will, though, keep you posted and inform you about changes as soon as possible.
 
 In the moment we are allowed to celebrate with up to 100 people - vaccinated and recovered guests not added. 
-Even if the region does not necessarily requires a hygiene plan, we will take care to include specific hygiene rules.
+Even if the region does not necessarily require a hygiene plan, we will take care to include specific hygiene rules.
 
 We want explicitly say, that we are not mad on ANYONE, who decides to not come to our wedding due to Corona.
 
-Information about the region Rheinland-Phalz and its Corona rules can also be found on (https://corona.rlp.de/de/startseite/ unfortunately only in German) or on the main page of the German government (https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/coronavirus in English).
+Information about the region Rheinland-Pfalz and its Corona rules can also be found on (https://corona.rlp.de/de/startseite/ unfortunately only in German) or on the main page of the German government (https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/coronavirus in English).

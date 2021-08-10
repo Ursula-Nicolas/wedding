@@ -1,13 +1,23 @@
 ---
 title: Contact
-featured_image: '/images/Test.jpg'
-omit_header_text: true
-description: We'd love to hear from you
+omit_header_text: false
+description: Who to contact
 type: page
 menu: main
-
+weight: 5
 ---
+Au cas ou vous auriez des questions à propos de mariage ou une requête particulière, contactez nous directement, ou nos témoins, ou encore notre wedding planner:
 
+## Témoins d’Ursula:
+Annika et Liesbeth Trinler<br>
+annika.trinler[at]mail.de / liesbeth-trinler[at]web.de
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUJp63YVayNk-N21i0OB9jnCsC4UcZE7gUY3xJjfV7IWLthQ/viewform?embedded=true" width="640" height="1252" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+## Témoins de Nicolas
+Sébastien Gomez / Yoann Long
 
+## Wedding planner
+
+**marrytale** - Jennifer Schneider<br>
+Téléphone: 0171-2818549<br>
+E-Mail: info[at]marrytale.de<br>
+Site internet : https://marrytale.de/

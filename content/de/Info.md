@@ -9,12 +9,12 @@ weight: 1
 ---
 
 ## Die Location: Hofgut Heidesheim
-Wir werden auf dem *Hofgut Heidesheim* feiern, welches in der wunderschönen Weinregion Rheinland-Pfalz lieg, siehe Karte und Standort am Ende der Seite.<br><br>
+Wir werden auf dem *Hofgut Heidesheim* feiern, welches in der wunderschönen Weinregion Rheinland-Pfalz liegt. Einen genauen Standort inklusive Karte findet ihr am Ende der Seite.<br><br>
 **Adresse**: Heidesheimer Hauptstraße 10, 67283 Obrigheim (Rheinland-Pfalz)<br>
 https://hofgut-heidesheim.de/
 
 ## Tag und Uhrzeit
-Wir feiern am Samstag, den 20. Novemeber 2021. Gestartet wird um 14 Uhr. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
+Wir feiern am Samstag, den 20. November 2021. Gestartet wird um 14 Uhr. Um so viel Zeit mit unseren Gästen wie möglich zu verbringen, werden wir zudem ein Frühstück am Sonntag auf dem Hofgut organisieren! Wenn du dabei sein wirst, gebe uns bitte über das Zu-/Absageformular Bescheid ([Formular]({{< ref "Zusage" >}} "Formular")).<br><br>
 Ein detaillierter Zeitplan könnt ihr hier abrufen:([Zeitplan]({{< ref "Zeitplan" >}} "Zeitplan")). 
 
 ## Anfahrt, ÖPNV und Taxi
@@ -35,16 +35,16 @@ Weitere Unterkünfte könnt ihr hier finden: https://www.airbnb.de/ oder https:/
 
 ## Geschenke
 Das größte Geschenk, das ihr uns machen könnt ist, zur Hochzeitsfeier zu kommen und mit uns zu feiern! Wir haben keine materiellen Wünsche, 
-falls ihr uns aber bei der Finanzierung der Hochzet und der Hochzeitsreise unterstützen wollt, freuen wir uns sehr! Wir werden hierfür eine kleine Box auf der Hochzeit aufstellen.
+falls ihr uns aber bei der Finanzierung der Hochzeit und der Hochzeitsreise unterstützen wollt, freuen wir uns sehr! Wir werden hierfür eine kleine Box auf der Hochzeit aufstellen.
 
 
 ## Wo kann ich zu oder absagen?
 Unter diesem Link ([Formular]({{< ref "Zusage" >}} "Formular")) kannst du uns Bescheid geben, ob du/ihr kommt oder es leider nicht schaffen werdet. Fülle einfach den Fragebogen aus und drücke "Senden" am Ende des Fragebogens.
 
 ## Kleiderordnung...
-...gibt es auf unserer Hochzeit nicht. Das bedeutet, dass du dich so kleiden kannst, dass du dich auf der Hochzeit wohl fühlst.
-Da die Hochzeit im Novemeber stattfinden wird, solltet ihr allerdings eine zusätzliche Lage Kleidung mitbringen. 
-Die Feier findet hauptsächlich drinnen statt, jedoch hat das Hofgut auch die Möglichkeit sich draußen aufzuhalten.
+...gibt es auf unserer Hochzeit nicht. Zieht euch so an, so dass ihr euch auf unserer Feier wohl fühlt. 
+Da die Hochzeit im November stattfinden wird, solltet ihr allerdings eine zusätzliche Lage Kleidung mitbringen. 
+Die Feier findet hauptsächlich drinnen statt, jedoch bietet sich auf dem Hofgut auch die Möglichkeit sich draußen aufzuhalten.
 
 ## Location
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.180780410766603%2C49.575325099116725%2C8.209962844848635%2C49.59096213207666&amp;layer=mapnik&amp;marker=49.58314424202826%2C8.195371627807617" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=49.5831&amp;mlon=8.1954#map=15/49.5831/8.1954">Show bigger map</a></small>

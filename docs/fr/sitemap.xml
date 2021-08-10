@@ -3,6 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ursula-nicolas-2021.de/fr/info/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ursula-nicolas-2021.de/de/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/info/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ursula-nicolas-2021.de/fr/emploidutemps/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ursula-nicolas-2021.de/fr/corona/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ursula-nicolas-2021.de/corona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ursula-nicolas-2021.de/de/corona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/corona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/corona/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ursula-nicolas-2021.de/fr/rsvp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ursula-nicolas-2021.de/rsvp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/rsvp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/rsvp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ursula-nicolas-2021.de/fr/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ursula-nicolas-2021.de/it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ursula-nicolas-2021.de/fr/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ursula-nicolas-2021.de/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -25,22 +115,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ursula-nicolas-2021.de/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ursula-nicolas-2021.de/fr/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://ursula-nicolas-2021.de/it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ursula-nicolas-2021.de/fr/contact/"
                 />
   </url>
   

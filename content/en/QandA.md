@@ -14,13 +14,13 @@ We will celebrate at the venue *Hofgut Heidesheim*, located in the beautiful win
 https://hofgut-heidesheim.de/
 
 ## Day and time
-We will celebrate on Saturday, the 20th of November 2021. Start will be at 2pm. To be able to spend as much time as possible with you, we are also organizing an easy Sunday breakfast at the venue! If you are joining us, please let us know via the ([RSVP]({{< ref "RSVP" >}} "RSVP")).<br><br>
+We will celebrate on Saturday, the 20th of November 2021. Start will be at 2 pm. To be able to spend as much time as possible with you, we are also organizing an easy Sunday breakfast at the venue! If you are joining us, please let us know via the ([RSVP]({{< ref "RSVP" >}} "RSVP")).<br><br>
 An en detail time table can be found here: ([Schedule]({{< ref "Schedule" >}} "Schedule")). 
 
 ## Public transport and car rental
 - **Closest airport**: International Airport Frankfurt
 - **Closest main train station**: Hauptbahnhof (HBF) Mannheim (tickets https://www.bahn.de/p/view/index.shtml)
-- **Reginal public transport**: train station Grünstadt (~4km to the venue)
+- **Regional public transport**: train station Grünstadt (~4km to the venue)
 - **Taxi**: http://www.pfalzcar.de/
 
 ## Accommodations close to the venue
