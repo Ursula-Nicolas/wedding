@@ -18,8 +18,8 @@ We will celebrate on Saturday, the 20th of November 2021. Start will be at 2 pm.
 An en detail time table can be found here: ([Schedule]({{< ref "Schedule" >}} "Schedule")). 
 
 ## Public transport and car rental
-- **Closest airport**: International Airport Frankfurt
-- **Closest main train station**: Hauptbahnhof (HBF) Mannheim (tickets https://www.bahn.de/p/view/index.shtml)
+- **Closest airport**: International Airport Frankfurt, car rental <a href="https://www.frankfurt-airport.com/en/transport-and-parking/car-rental/rental-cars-at-the-airport.html" target="_blank">here</a>
+- **Closest main train station**: Hauptbahnhof (HBF) Mannheim (tickets <a href="https://www.bahn.de/p/view/index.shtml" target="_blank">here</a>), car rental at <a href="https://www.sixt.de/mietwagen/deutschland/mannheim/mannheim-hauptbahnhof/#/" target="_blank">Sixt</a> or at <a href="https://www.europcar.co.uk/en-gb/stations/germany/mannheim-railway-delivery" target="_blank">Europcar</a>
 - **Regional public transport**: train station Grünstadt (~4km to the venue)
 - **Taxi**: http://www.pfalzcar.de/
 

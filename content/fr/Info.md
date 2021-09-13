@@ -19,10 +19,10 @@ Si vous vous joignez à nous, merci de nous le faire savoir via le ([RSVP]({{< r
 Un emploi du temps pas à pas est disponible ici: ([EmploiDuTemps]({{< ref "EmploiDuTemps" >}} "Emploi Du Temps")). 
 
 ## Transports publics et location de voitures
-- **Aéroport le plus proche**: Aéroport international Frankfort
-- **Gare la plus proche**: Gare (Hauptbahnhof, HBF) Mannheim (réservations ici https://www.bahn.de/p/view/index.shtml)
+- **Aéroport le plus proche**: Aéroport international Frankfort, location de voiture <a href="https://www.frankfurt-airport.com/en/transport-and-parking/car-rental/rental-cars-at-the-airport.html" target="_blank">ici</a>
+- **Gare la plus proche**: Gare (Hauptbahnhof, HBF) Mannheim (réservations <a href="https://www.bahn.de/p/view/index.shtml" target="_blank">ici</a>), location de voiture à <a href="https://www.sixt.de/mietwagen/deutschland/mannheim/mannheim-hauptbahnhof/#/" target="_blank">Sixt</a> ou à <a href="https://www.europcar.fr/fr-fr/agences/allemagne/mannheim-gare" target="_blank">Europcar</a>
 - **Gare TER la plus proche**: Gare de Grünstadt (environ à 4km du lieu de réception)
-- **Taxi**: http://www.pfalzcar.de/
+- **Taxi**: http://www.pfalzcar.de/ (de Grünstadt)
 
 ## Auberges et hotels à proximité
 Vous pourrez trouver plusieurs hôtels et auberges à proximité du lieu de réception, mais voici une liste non exhaustive, avec le lien du logement et le village où est situé l’hébergement :<br><br>

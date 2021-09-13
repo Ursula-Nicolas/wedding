@@ -20,8 +20,8 @@ Se siete desiderosi di partecipare, vi chiediamo di farcelo sapere via [RSVP]({{
 Trovate maggiori dettagli consultando la seguente tabella: ([Orario]({{< ref "Orario" >}} "Orario")). 
 
 ## Trasporto Pubblico e Noleggio Auto 
-- **Aeroporto**: International Airport Frankfurt
-- **Stazione dei treni**: Hauptbahnhof (HBF) Mannheim (per i biglietti https://www.bahn.de/p/view/index.shtml)
+- **Aeroporto**: International Airport Frankfurt, noleggio auto <a href="https://www.frankfurt-airport.com/en/transport-and-parking/car-rental/rental-cars-at-the-airport.html" target="_blank">qui</a>
+- **Stazione dei treni**: Hauptbahnhof (HBF) Mannheim (per i biglietti <a href="https://www.bahn.de/p/view/index.shtml" target="_blank">qui</a>), noleggio auto da <a href="https://www.sixt.de/mietwagen/deutschland/mannheim/mannheim-hauptbahnhof/#/" target="_blank">Sixt</a> o da <a href="https://www.europcar.it/it-it/stazioni/germania/mannheim-stazione-ferroviaria?gclsrc=aw.ds&gclsrc=aw.ds++" target="_blank">Europcar</a>
 - **Stazione di arrivo**: Stazione del treno di Grünstadt (distante 4 km dal posto in cui celebreremo il matrimonio “Hofgut Heidesheim”: Heidesheimer Hauptstraße 10, 67283 Obrigheim (Rheinland-Pfalz))
 - **Taxi**: Da Grünstadt: http://www.pfalzcar.de/
 
