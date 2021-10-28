@@ -5,7 +5,7 @@ omit_header_text: false
 description: Genauer Ablauf der Feier
 type: page
 menu: main
-weight: 2
+weight: 3
 
 ---
 

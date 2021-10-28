@@ -5,7 +5,7 @@ omit_header_text: false
 description: Alles rund um die Feier
 type: page
 menu: main
-weight: 1
+weight: 2
 ---
 
 ## Die Location: Hofgut Heidesheim
