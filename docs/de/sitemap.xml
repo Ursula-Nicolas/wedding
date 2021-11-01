@@ -6,6 +6,16 @@
     <loc>https://ursula-nicolas-2021.de/de/news/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ursula-nicolas-2021.de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ursula-nicolas-2021.de/de/news/"
+                />
   </url>
   
   <url>

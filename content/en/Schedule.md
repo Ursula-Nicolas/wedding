@@ -5,7 +5,7 @@ omit_header_text: false
 description: Detailed schedule of the celebration
 type: page
 menu: main
-weight: 2
+weight: 3
 
 ---
 

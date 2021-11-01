@@ -5,7 +5,7 @@ omit_header_text: false
 description: Before, during and after the party
 type: page
 menu: main
-weight: 1
+weight: 2
 ---
 
 ## The venue: Hofgut Heidesheim

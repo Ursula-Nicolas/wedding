@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ursula-nicolas-2021.de/fr/nouvelles/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ursula-nicolas-2021.de/fr/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

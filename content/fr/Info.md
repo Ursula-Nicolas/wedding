@@ -5,7 +5,7 @@ omit_header_text: false
 description: Avant, pendant, et après le mariage
 type: page
 menu: main
-weight: 1
+weight: 2
 ---
 
 ## Le lieu: Hofgut Heidesheim

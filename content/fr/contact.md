@@ -4,7 +4,7 @@ omit_header_text: false
 description: Who to contact
 type: page
 menu: main
-weight: 5
+weight: 6
 ---
 Au cas ou vous auriez des questions à propos de mariage ou une requête particulière, contactez nous directement, ou nos témoins, ou encore notre wedding planner:
 
@@ -16,6 +16,9 @@ annika.trinler[at]mail.de / liesbeth-trinler[at]web.de
 Sébastien Gomez / Yoann Long
 
 ## Wedding planner
+
+**Carolin Schönball**<br>
+E-Mail: c.schoenball[@]gmx.de<br>
 
 **marrytale** - Jennifer Schneider<br>
 Téléphone: 0171-2818549<br>

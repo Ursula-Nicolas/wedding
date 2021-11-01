@@ -5,7 +5,7 @@ omit_header_text: true
 description: Nous aimerions recevoir de vos nouvelles
 type: page
 menu: main
-weight: 4
+weight: 5
 
 ---
 ## Remplissez ce document pour nous faire part de votre absence ou de votre venue à notre mariage !
