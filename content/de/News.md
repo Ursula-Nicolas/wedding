@@ -11,7 +11,7 @@ weight: 1
 ## Was gibt es Neues zu berichten?
 
 1.	Wegen persönlichen Gründen musste leider unsere **Hochzeitsplanerin** Jennifer Schneider den Staffelstab an **Carolin Schönball** 
-weiter gegeben. Caro ist super und falls ihr Fragen an sie habt könnt ihr sie unter c.schoenball[@]gmx.de kontaktieren.
+weiter gegeben. Caro ist super und falls ihr Fragen an sie habt könnt ihr sie unter c.schoenball[@]gmx.net kontaktieren.
 
 2.	Programmpunkte: Falls jemand von euch etwas für das **Programm** planen sollte, meldet euch bei Caro, damit sie da ein bisschen 
 den Überblick behält und euch ggf. helfen kann.

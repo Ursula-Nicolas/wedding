@@ -18,7 +18,7 @@ Sébastien Gomez / Yoann Long
 ## Wedding planner
 
 **Carolin Schönball**<br>
-E-Mail: c.schoenball[@]gmx.de<br>
+E-Mail: c.schoenball[@]gmx.net<br>
 
 **marrytale** - Jennifer Schneider<br>
 Téléphone: 0171-2818549<br>

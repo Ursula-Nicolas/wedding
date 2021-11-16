@@ -11,7 +11,7 @@ weight: 1
 ## What's new to report?
 
 1.    Our wedding planner will be replaced because of personal reasons - now **Carolin Schönball** is the person in charge. We trust Caro and 
-if you have any questions you can contact her under c.schoenball[@]gmx.de.
+if you have any questions you can contact her under c.schoenball[@]gmx.net.
 
 2.    Event program: In case someone of you wishes to add an activity in the program, let Caro know so that she can keep the overview in sight and can help you in 
 case you need something.

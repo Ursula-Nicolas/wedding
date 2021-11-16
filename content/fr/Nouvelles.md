@@ -11,7 +11,7 @@ weight: 1
 ## Quelles sont les dernières nouvelles ?
 
 1.	Notre wedding planner ne sera pas présente le jour J, pour des raisons personnelles. **Carolin Schönball** prend sa relève, c’est quelqu’un en qui nous avons 
-confiance et qui se tiendra disponible pour répondre à vos questions à l’adresse c.schoenball[@]gmx.de.
+confiance et qui se tiendra disponible pour répondre à vos questions à l’adresse c.schoenball[@]gmx.net.
 
 2.	Programme : Si vous voulez intégrer une activité aux festivités, prévenez Caro de manière à ce qu’elle puisse garder une vue globale du programme, 
 et elle est bien sûr à votre écoute si vous avez besoin de quoi que ce soit.
